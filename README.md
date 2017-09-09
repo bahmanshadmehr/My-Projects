@@ -22,7 +22,7 @@ The project is in progress and it’s based on Django. So you can see different 
 https://github.com/bahmanshadmehr/online-course-website
 
 
-# Laser Defender Unity Games:
+# Laser Defender Unity Game:
 This little game is my second experience in Unity Game Engine. It's a simple game and it’s really not special but I like it because I liked unity. And also it was a good experience in working with C#. But It’s not finished yet. I'm adding some new functionalities to the game. Finally I will build it for the web and I will upload it for you to enjoy it :)  
 https://github.com/bahmanshadmehr/laser-defencer
 
@@ -32,3 +32,9 @@ This Project was actually my first Unity project. It is a multi-player board gam
 But you can enjoy it right now if you like :)  
 I've used c# for this project and the good part about the projects is some of my codes. You can read more about it in the link below.  
 https://github.com/bahmanshadmehr/Conquer-board-game
+
+# Store Bot(Telegram Bot Using Telepot, Python):
+This project is a simple Telegram Bot. It actually is my first experience of using Telepot. It was really fun and I really enjoyed it.   This project has two functions than for using the bot you can change it. One of them is for getting the catogory and another one is for getting data from a category.  
+it also has a function for submitting the order that you can change for writing it in the way that you like.  
+I hope you enjoy it :)  
+https://github.com/bahmanshadmehr/Store-Bot
