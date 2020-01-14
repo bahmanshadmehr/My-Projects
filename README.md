@@ -38,3 +38,7 @@ This project is a simple Telegram Bot. It actually is my first experience of usi
 it also has a function for submitting the order that you can change for writing it in the way that you like.  
 I hope you enjoy it :)  
 https://github.com/bahmanshadmehr/Store-Bot
+
+# Angular Dashboard, English and Persian(LTR and RTL design):
+This prroject was my first intract with angular for practicing angular 8 and type script. 
+https://github.com/bahmanshadmehr/Angular_Dashboard
